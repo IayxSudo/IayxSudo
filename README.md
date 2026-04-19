@@ -1,7 +1,7 @@
-![iayx](https://via.placeholder.com/1200x300/0A0A0A/00FFAA?text=iayx)
+![iayx](https://imgur.com/a/Mw1PZ9P)
 
 # iayx
 
-**Find my projects here:** [github.com/iayx](https://github.com/iayx)
+**Find my projects here:** [github.com/iayx](https://iayx.online/)
 
 **Discord:** iayx
