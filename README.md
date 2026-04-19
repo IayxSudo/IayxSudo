@@ -1,4 +1,4 @@
-![iayx](https://cdn.discordapp.com/attachments/1494927482200264714/1495525427668717769/image.png?ex=69e69017&is=69e53e97&hm=71e33751e22dafc069a0bfa8e36cbfe26b6ef347c477de7dc89c2c1edb72f7f3&)
+![iayx](https://media.discordapp.net/attachments/1494927482200264714/1495525568978882710/f908adc63e33fef7c9297b516a07ae53.png?ex=69e69039&is=69e53eb9&hm=32486ed719dc341eafdfc3afaa8aa60acd7e48f096b5d5e37a7d67c9ae87b89c&=&format=webp&quality=lossless)
 
 # iayx
 
