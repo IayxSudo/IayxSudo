@@ -2,6 +2,6 @@
 
 # iayx
 
-**Find my projects here:** [github.com/iayx](https://iayx.online/)
+**Find my projects here:** (https://iayx.online/)
 
 **Discord:** iayx
