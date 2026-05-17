@@ -33,13 +33,13 @@
 
 ## GitHub Analytics
 <p align="center">
-  <!-- Stats & Languages side-by-side -->
+  <!-- Stats & Languages side-by-side (with count_private=true) -->
   <a href="https://github.com/iayxsudo">
-    <img height="190px" src="https://github-readme-stats-eight-theta.vercel.app/api?username=iayxsudo&cache_seconds=7200&show_icons=true&theme=prussian&border_radius=10" alt="iayxsudo's GitHub Stats" />
+    <img height="190px" src="https://github-readme-stats-eight-theta.vercel.app/api?username=iayxsudo&cache_seconds=7200&show_icons=true&theme=prussian&border_radius=10&count_private=true" alt="iayxsudo's GitHub Stats" />
   </a>
   &nbsp;&nbsp;
   <a href="https://github.com/iayxsudo">
-    <img height="190px" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=iayxsudo&langs_count=8&layout=compact&theme=prussian&border_radius=10" alt="Top Languages" />
+    <img height="190px" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=iayxsudo&langs_count=8&layout=compact&theme=prussian&border_radius=10&count_private=true" alt="Top Languages" />
   </a>
 </p>
 
