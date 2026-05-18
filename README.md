@@ -33,19 +33,19 @@
 
 ## GitHub Analytics
 <p align="center">
-  <!-- Stats & Languages side-by-side (Added &v=3 to force clear GitHub cache) -->
+  <!-- Stats & Languages side-by-side -->
   <a href="https://github.com/iayxsudo">
-    <img height="190px" src="https://github-readme-stats-livid-six-13.vercel.app/api?username=iayxsudo&cache_seconds=7200&show_icons=true&theme=prussian&border_radius=10&count_private=true&v=3" alt="iayxsudo's GitHub Stats" />
+    <img height="190px" src="https://github-readme-stats-livid-six-13.vercel.app/api?username=iayxsudo&cache_seconds=0&show_icons=true&theme=prussian&border_radius=10&count_private=true&v=5" alt="iayxsudo's GitHub Stats" />
   </a>
   &nbsp;&nbsp;
   <a href="https://github.com/iayxsudo">
-    <img height="190px" src="https://github-readme-stats-livid-six-13.vercel.app/api/top-langs/?username=iayxsudo&langs_count=8&layout=compact&theme=prussian&border_radius=10&count_private=true&v=3" alt="Top Languages" />
+    <img height="190px" src="https://github-readme-stats-livid-six-13.vercel.app/api/top-langs/?username=iayxsudo&langs_count=8&layout=compact&theme=prussian&border_radius=10&count_private=true&v=5" alt="Top Languages" />
   </a>
 </p>
 
 <p align="center">
-  <!-- Streak Stats -->
-  <img src="https://streak-stats.demolab.com/?user=iayxsudo&theme=prussian&hide_border=true&cache_seconds=86400" alt="iayxsudo's GitHub Streak" height="180px" />
+  <!-- Streak Stats (Set to cache_seconds=0 to update immediately) -->
+  <img src="https://streak-stats.demolab.com/?user=iayxsudo&theme=prussian&hide_border=true&cache_seconds=0" alt="iayxsudo's GitHub Streak" height="180px" />
 </p>
 
 ---
