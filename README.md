@@ -33,13 +33,13 @@
 
 ## GitHub Analytics
 <p align="center">
-  <!-- Stats & Languages side-by-side -->
+  <!-- Stats & Languages side-by-side (Added &v=2 to clear GitHub cache) -->
   <a href="https://github.com/iayxsudo">
-    <img height="190px" src="https://github-readme-stats-livid-six-13.vercel.app/api?username=iayxsudo&cache_seconds=7200&show_icons=true&theme=prussian&border_radius=10&count_private=true" alt="iayxsudo's GitHub Stats" />
+    <img height="190px" src="https://github-readme-stats-livid-six-13.vercel.app/api?username=iayxsudo&cache_seconds=7200&show_icons=true&theme=prussian&border_radius=10&count_private=true&v=2" alt="iayxsudo's GitHub Stats" />
   </a>
   &nbsp;&nbsp;
   <a href="https://github.com/iayxsudo">
-    <img height="190px" src="https://github-readme-stats-livid-six-13.vercel.app/api/top-langs/?username=iayxsudo&langs_count=8&layout=compact&theme=prussian&border_radius=10&count_private=true" alt="Top Languages" />
+    <img height="190px" src="https://github-readme-stats-livid-six-13.vercel.app/api/top-langs/?username=iayxsudo&langs_count=8&layout=compact&theme=prussian&border_radius=10&count_private=true&v=2" alt="Top Languages" />
   </a>
 </p>
 
