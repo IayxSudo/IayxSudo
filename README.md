@@ -10,7 +10,7 @@
   </p>
 
   <!-- Banner -->
-  <img src="https://cdn.jumpshare.com/preview/IeYATfOX4Awiew6V4eQWn8b0gnoGuKmIGmRYjcILF6lTg4K63dCmGuJHZAI5eX9372Nbl5IFoCyXn_GiNs7k8427TvpUHXY1j1QU6KyMV0BhEk7oiWnIOP4nhqKYhNsR" alt="Banner" width="100%" style="border-radius: 8px;" />
+  <img src="https://media.discordapp.net/attachments/1456907801816207442/1507171189322416198/discord-banner-iayx_1.gif?ex=6a10ee0d&is=6a0f9c8d&hm=ad004d3051d984a4c46366074a08dba598a211432c35949c13eaf5b14ce89025&=" alt="Banner" width="100%" style="border-radius: 8px;" />
 </div>
 
 <br/>
